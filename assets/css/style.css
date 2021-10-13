@@ -17,8 +17,17 @@ body {
     color: var(--text-color);
 }
 
+h1 {
+    position: absolute;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 20px;
+    top: 0px;
+    left: 20px;
+    z-index: 1;
+}
+
 .ruler {
     position: absolute;
-    top: 0px;
+    top: 30px;
     left: 0px;
 }
